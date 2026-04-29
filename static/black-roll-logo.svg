@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Black Roll Sushi</title>
+  <desc id="desc">Logo negro y dorado de Black Roll Sushi con un rollo de sushi al centro.</desc>
+  <rect width="512" height="512" fill="#030303"/>
+  <path d="M113 244c8-71 68-126 142-126 75 0 136 57 142 130" fill="none" stroke="#d9b761" stroke-width="10" stroke-linecap="round"/>
+  <path d="M84 249c11-97 91-169 190-165 69 3 126 39 159 91" fill="none" stroke="#c9a04b" stroke-width="7" stroke-linecap="round" opacity=".86"/>
+  <path d="M96 277c21 83 98 143 187 135 66-6 122-46 151-101" fill="none" stroke="#f0d07a" stroke-width="7" stroke-linecap="round" opacity=".82"/>
+  <ellipse cx="256" cy="221" rx="72" ry="56" fill="#0d0d0d" stroke="#e2bd68" stroke-width="12"/>
+  <path d="M184 222v60c0 31 32 56 72 56s72-25 72-56v-60" fill="none" stroke="#e2bd68" stroke-width="12"/>
+  <ellipse cx="256" cy="221" rx="30" ry="20" fill="#df3b28"/>
+  <text x="256" y="404" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700" fill="#f7f1e7">BLACK ROLL</text>
+  <line x1="122" y1="440" x2="199" y2="440" stroke="#c9a04b" stroke-width="4"/>
+  <line x1="313" y1="440" x2="390" y2="440" stroke="#c9a04b" stroke-width="4"/>
+  <text x="256" y="453" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="14" fill="#c9a04b">SUSHI</text>
+</svg>
